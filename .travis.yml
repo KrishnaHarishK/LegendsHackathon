@@ -8,5 +8,3 @@ deploy:
   password: gundu1526
   organization: titus_hackathon_legends
   space: development
-  on:
-    repo: travis-ci/dpl
