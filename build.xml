@@ -5,7 +5,7 @@
      <property name="dir.jar"     value="${dir.build}/jar"/> 
  
  
-     <property name="main-class"  value="com.LegendsHackathon.HelloHackathon"/> 
+     <property name="main-class"  value="HelloHackathon"/> 
  
  
      <target name="clean"> 

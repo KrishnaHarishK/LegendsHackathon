@@ -16,7 +16,7 @@ public class HelloHackathon {
 		// TODO Auto-generated method stub
 		System.out.println ("Hello Hackathon");
 		
-		//System.out.println ("Hackathon is our priced possession!!!");
+		System.out.println ("Hackathon is our priced possession!!!");
 	}
 
 }
