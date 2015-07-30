@@ -2,5 +2,6 @@
 applications:
 - name: LegendsHackathon
   buildpack: java_buildpack
+  path: LegendsHackathon/build/jar/HelloHackathon.jar
   memory: 1024M
   host: CM
