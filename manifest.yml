@@ -1,0 +1,5 @@
+---
+applications:
+- name: LegendsHackathon
+  memory: 1024M
+  host: CM
