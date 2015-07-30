@@ -3,8 +3,6 @@
  */
 package com.LegendsHackathon.HelloHackathon;
 
-import java.io.*;
-
 /**
  * @author Administrator
  *
