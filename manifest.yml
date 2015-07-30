@@ -1,5 +1,6 @@
 ---
 applications:
 - name: LegendsHackathon
+  buildpack: java_buildpack
   memory: 1024M
   host: CM
