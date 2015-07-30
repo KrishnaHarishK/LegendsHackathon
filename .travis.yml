@@ -9,5 +9,6 @@ deploy:
   password: gundu1526
   organization: titus_hackathon_legends
   space: development
+  file: build/jar/HelloHackathon.jar
   on:
     repo: KrishnaHarishK/LegendsHackathon
