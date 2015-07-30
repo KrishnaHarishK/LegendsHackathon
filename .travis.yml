@@ -2,8 +2,9 @@ language: java
 sudo: required
 script: ant main
 deploy:
+  edge: true
   provider: cloudfoundry
-  target: https://api.run.pivotal.io
+  api: https://api.run.pivotal.io
   username: chiranjeevi.v.desaraju@verizon.com
   password: gundu1526
   organization: titus_hackathon_legends
