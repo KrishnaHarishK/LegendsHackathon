@@ -10,4 +10,4 @@ deploy:
   organization: titus_hackathon_legends
   space: development
   on:
-    repo: KrishnaHarishK/LegendsHackathon/build/jar
+    repo: KrishnaHarishK/LegendsHackathon
