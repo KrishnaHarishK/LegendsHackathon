@@ -1,6 +1,6 @@
 ---
 applications:
 - name: LegendsHackathon
-  path: build/jar/HelloHackathon.jar
+  path: jars/HelloHackathon.jar
   memory: 1024M
   host: CM
